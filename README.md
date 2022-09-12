@@ -1,4 +1,4 @@
-![MasterHead](https://tenor.com/view/geometric-abstract-background-looping-gif-13113745)
+![MasterHead](https://wallpaperaccess.com/full/219689.jpg)
 <h1 align="center">Hi 👋, I'm Preeti Sarkar</h1>
 <h3 align="center">A passionate problem solver with hands on experience in C,C++ and Java. I am a recent graduate from Chaibasa Engineering College.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
